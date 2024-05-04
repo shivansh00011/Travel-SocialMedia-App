@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1095231225549",
+    "project_id": "zoltrakk-5b2bb",
+    "storage_bucket": "zoltrakk-5b2bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095231225549:android:143758a5ee90964737b384",
+        "android_client_info": {
+          "package_name": "com.example.zoltrakk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa5W28rDy212iFGbwmQkwaG_ty9PGZXto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
